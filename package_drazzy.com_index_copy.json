@@ -1717,10 +1717,10 @@
           "systems": [
             {
               "size": "1166778",
-              "checksum": "SHA-256:96DBF48E786DAC7236516347E06BEB8C36C754443AFDCBA782084F203A7B67D8",
+              "checksum": "SHA-256:db8f92750d1c94669ba5d8b46e72d27d28ec927a19344cf42b7ae7bd1b5c30c9",
               "host": "x86_64-mingw32",
-              "archiveFileName": "micronucleus-cli-master-882e7b4a-x86_64-MINGW64_NT-10.0-17763.zip",
-              "url": "https://github.com/micronucleus/micronucleus/releases/download/v2.6/micronucleus-cli-master-882e7b4a-x86_64-MINGW64_NT-10.0-17763.zip"
+              "archiveFileName": "micronucleus-cli-2.5-azd1b-x86_64-mingw32.zip",
+              "url": "https://azduino.com/bin/micronucleus/micronucleus-cli-2.5-azd1b-x86_64-mingw32.zip"
             },
             {
               "size": "1159717",
@@ -1759,7 +1759,7 @@
             },
             {
               "size": "431381",
-              "checksum": "SHA-256:1a9efa50e23fec004bf169579978882db6079b76c52da9188d149d270ded432c",
+              "checksum": "SHA-256:FCAE34CDD11905F7857DFCD989C006344CE2408E52562A92C1CD8B1DF781DEA3",
               "host": "x86_64-linux-gnu",
               "archiveFileName": "micronucleus-cli-master-882e7b4a-x86_64-Linux.zip",
               "url": "https://github.com/micronucleus/micronucleus/releases/download/v2.6/micronucleus-cli-master-882e7b4a-x86_64-Linux.zip"
@@ -1770,12 +1770,12 @@
           "name": "micronucleus",
           "version": "2.5-azd1",
           "systems": [
-             {
-              "size": "1166778",
-              "checksum": "SHA-256:96DBF48E786DAC7236516347E06BEB8C36C754443AFDCBA782084F203A7B67D8",
+            {
+              "size": "1062391",
+              "checksum": "SHA-256:21b8a314b65b5143f1fcf865ec17a256d42894e6e95140b80146b60a779d4585",
               "host": "x86_64-mingw32",
-              "archiveFileName": "micronucleus-cli-master-882e7b4a-x86_64-MINGW64_NT-10.0-17763.zip",
-              "url": "https://github.com/micronucleus/micronucleus/releases/download/v2.6/micronucleus-cli-master-882e7b4a-x86_64-MINGW64_NT-10.0-17763.zip"
+              "archiveFileName": "micronucleus-cli-2.5-azd1-x86_64-mingw32.tar.bz2",
+              "url": "https://azduino.com/bin/micronucleus/micronucleus-cli-2.5-azd1-x86_64-mingw32.tar.bz2"
             },
             {
               "size": "1039040",
@@ -1814,10 +1814,10 @@
             },
             {
               "size": "431381",
-              "checksum": "SHA-256:1a9efa50e23fec004bf169579978882db6079b76c52da9188d149d270ded432c",
+              "checksum": "SHA-256:FCAE34CDD11905F7857DFCD989C006344CE2408E52562A92C1CD8B1DF781DEA3",
               "host": "x86_64-linux-gnu",
-              "archiveFileName": "micronucleus-cli-master-882e7b4a-x86_64-MINGW64_NT-10.0-17763.zip",
-              "url": "https://github.com/micronucleus/micronucleus/releases/download/v2.6/micronucleus-cli-master-882e7b4a-x86_64-MINGW64_NT-10.0-17763.zip"
+              "archiveFileName": "micronucleus-cli-master-882e7b4a-x86_64-Linux.zip",
+              "url": "https://github.com/micronucleus/micronucleus/releases/download/v2.6/micronucleus-cli-master-882e7b4a-x86_64-Linux.zip"
             }
           ]
         },
@@ -1848,8 +1848,8 @@
             },
             {
               "host": "x86_64-linux-gnu",
-              "archiveFileName": "micronucleus-cli-master-882e7b4a-x86_64-Linux.zip",
-              "url": "https://github.com/micronucleus/micronucleus/releases/download/v2.6/micronucleus-cli-master-882e7b4a-x86_64-Linux.zip",
+              "archiveFileName": "micronucleus-2.0a4-linux64.tar.gz",
+              "url": "https://github.com/digistump/DigistumpArduino/releases/download/1.6.5a/micronucleus-2.0a4-linux64.tar.gz",
               "checksum": "SHA-256:1F545C0BB60E85A604901C2D7044772AC91776594C209C571DFEDAD4A70195B8",
               "size": "22874"
             }
